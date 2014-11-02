@@ -18,11 +18,11 @@ java grades 38 50
 #Outputs:Component fail
 #Actual Outputs:Component fail
 java grades  50 38
-#Test Case 5
-#Inputs: 50
+#Test Case 5 
+#Inputs: 50 55
 #Outputs: Fail
 #Actual Outputs: Fail
-java grades 50 
+java grades 50 55 
 #Test Case 6
 #Inputs: 65 70
 #Outputs: Pass
